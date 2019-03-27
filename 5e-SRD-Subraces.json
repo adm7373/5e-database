@@ -362,5 +362,95 @@
 		],
 		"racial_trait_options": {},
 		"url": "http://www.dnd5eapi.co/api/subraces/6"
+	},
+	{
+		"index": 7,
+		"name": "Forest Gnome",
+		"race": {
+			"url": "http://www.dnd5eapi.co/api/races/6",
+			"name": "Gnome"
+		},
+		"desc": "",
+		"ability_bonuses": [
+			0,
+			0,
+			0,
+			2,
+			0,
+			0
+		],
+		"starting_proficiencies:": [
+			
+		],
+		"starting_proficiency_options": {},
+		"languages": [],
+		"language_options": {
+			
+		},
+		"racial_traits": [
+			
+		],
+		"racial_trait_options": {},
+		"url": "http://www.dnd5eapi.co/api/subraces/7"
+	},
+	{
+		"index": 8,
+		"name": "Rock Gnome",
+		"race": {
+			"url": "http://www.dnd5eapi.co/api/races/6",
+			"name": "Gnome"
+		},
+		"desc": "",
+		"ability_bonuses": [
+			0,
+			0,
+			0,
+			2,
+			0,
+			0
+		],
+		"starting_proficiencies:": [
+			
+		],
+		"starting_proficiency_options": {},
+		"languages": [],
+		"language_options": {
+			
+		},
+		"racial_traits": [
+			
+		],
+		"racial_trait_options": {},
+		"url": "http://www.dnd5eapi.co/api/subraces/8"
+	},
+	{
+		"index": 9,
+		"name": "Deep Gnome (Svirfneblin)",
+		"race": {
+			"url": "http://www.dnd5eapi.co/api/races/6",
+			"name": "Gnome"
+		},
+		"desc": "",
+		"ability_bonuses": [
+			0,
+			0,
+			0,
+			2,
+			0,
+			0
+		],
+		"starting_proficiencies:": [
+			
+		],
+		"starting_proficiency_options": {},
+		"languages": [],
+		"language_options": {
+			
+		},
+		"racial_traits": [
+			
+		],
+		"racial_trait_options": {},
+		"url": "http://www.dnd5eapi.co/api/subraces/9"
 	}
 ]

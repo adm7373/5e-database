@@ -446,6 +446,10 @@
 			{
 				"url": "http://www.dnd5eapi.co/api/subraces/8",
 				"name": "Rock Gnome"
+			},
+			{
+				"url": "http://www.dnd5eapi.co/api/subraces/9",
+				"name": "Deep Gnome"
 			}
 		],
 		"url": "http://www.dnd5eapi.co/api/races/6"
